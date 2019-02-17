@@ -1,2 +1,3 @@
-# aks-fileshare-dotnet-core
-Sample code for accessing an Azure File Share from inside containers running in Azure Kubernetes Services, based on C# (dotnet core 2.2).
+# Mount and access and Azure File share from your Azure Kubernetes Services deployments
+
+Source code for blog post: https://zimmergren.net/processing-sqlite-on-azure-files-share-azure-kubernetes-services
